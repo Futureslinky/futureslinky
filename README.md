@@ -1,5 +1,5 @@
 # Hi 👋, I'm Harsh
-I create Arduino Projects in `C++`
+Hey I'm a student at [Stacy Middle School](https://www.milfordpublicschools.com/Stacy)
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -8,6 +8,11 @@ I create Arduino Projects in `C++`
 ![HTML](https://img.shields.io/badge/-Html-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+* 🏆 2021 **[KIEE 52nd Summer Conference](https://conf.kiee.or.kr/)** Excellence Award (as co-author);
+* 🥉 2021 **[JunctionX Seoul](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartChange);
+* 🥉 2020 **IEEE Seoul Section Student Paper Contest** Bronze Award (as 2nd author);
+* 🥉 2020 **[JunctionX Seoul](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartMonitor).
 
 ### Technologies
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
