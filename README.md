@@ -7,7 +7,6 @@ Hey I'm a student at [Stacy Middle School](https://www.milfordpublicschools.com/
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![HTML](https://img.shields.io/badge/-Html-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
