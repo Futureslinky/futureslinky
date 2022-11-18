@@ -1,5 +1,5 @@
 # Hi 👋, I'm Harsh
-Hey I'm a student at [Stacy Middle School](https://www.milfordpublicschools.com/Stacy) and enthusiastic about coding. I like to play tennis during my free time along with hanging out with my friends!
+Hey I'm a student at [Milford High School](https://www.milfordpublicschools.com/Domain/8) and enthusiastic about coding. I like to play tennis during my free time along with hanging out with my friends!
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
